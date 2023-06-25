@@ -53,6 +53,9 @@ const welcome5 = userFirstName5 => `სალამი ${userFirstName5}`;
 // retur - ის შემდეგ ვერაფერს გაუშვებ!
 // retur - ის შემდეგ ყველა კოდი იქნება unrichbl code
 
+const logo = 80;
+console.log(logo);
+
 
 
 
